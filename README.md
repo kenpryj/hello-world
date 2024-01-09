@@ -1,2 +1,3 @@
 # hello-world
-This is for first day attendance.
+This is for the first day of attendance submission.
+My name is Kennedy.
